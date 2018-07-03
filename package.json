@@ -1,0 +1,22 @@
+{
+  "name": "de-krook-beacons",
+  "version": "1.0.0",
+  "description": "Package to easily find beacons in library De Krook",
+  "main": "./lib/scanner.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremy Van de Walle (LAB9K)",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.9.1",
+    "node-beacon-scanner": "0.0.3"
+  }
+}
