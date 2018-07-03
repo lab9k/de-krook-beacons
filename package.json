@@ -1,6 +1,6 @@
 {
   "name": "de-krook-beacons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to easily find beacons in library De Krook",
   "main": "./lib/scanner.js",
   "files": [
