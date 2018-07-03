@@ -15,4 +15,4 @@ scanner.foundBeacons = (beacons) => {
 scanner.startScan(3000);
 
 //stops the scanner.
-scanner.stopScan();
+//scanner.stopScan();

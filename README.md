@@ -1,5 +1,5 @@
 # de-krook-beacons
-The repository for the Node.js module de-krook-beacons. This module allows you to easily scan beacons in De Krook and read their RSSI value. 
+The repository for the Node.js module de-krook-beacons. This module allows you to easily scan beacons in De Krook and read their RSSI value. Specialy made for [Kraak De Krook](https://kraak.dekrook.be)
 
 ## Dependencies
 * [Node.js](https://nodejs.org/en/) 6 +
@@ -34,7 +34,8 @@ scanner.foundBeacons = (beacons) => {
 scanner.startScan(3000);
 
 //stops the scanner.
-scanner.stopScan();
+//make sure you wrap this in an interval or you get a empty list.
+//scanner.stopScan();
 
 ```
 Or you can find the example [here](https://github.com/lab9k/de-krook-beacons/blob/master/example.js).
