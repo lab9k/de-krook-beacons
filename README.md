@@ -44,7 +44,7 @@ Or you can find the example [here](https://github.com/lab9k/de-krook-beacons/blo
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Futomi Hatano
+Copyright (c) 2018 Lab9K
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
